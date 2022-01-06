@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ROOT MUV="2.1.0.1551.6380">
+		<PRODUCT PID="0x0952" URL="https://boseupdaterfile.top/bosefirmware/eb/master/drowsy_charger/index.xml" />
+		<PRODUCT PID="0x1869" URL="https://boseupdaterfile.top/bosefirmware/bosebuild/master/BB1/index.xml" />
+		<PRODUCT PID="0x1872" URL="https://boseupdaterfile.top/bosefirmware/bosebuild/master/BB2/index.xml" />
+		<PRODUCT PID="0x400A" URL="https://boseupdaterfile.top/bosefirmware/ced/master/isaac/index.xml" />
+		<PRODUCT PID="0x400C" URL="https://boseupdaterfile.top/bosefirmware/ced/master/wolfcastle/index.xml" />
+		<PRODUCT PID="0x400D" URL="https://boseupdaterfile.top/bosefirmware/ced/master/foreman/index.xml" />
+		<PRODUCT PID="0x4006" URL="https://boseupdaterfile.top/bosefirmware/ced/master/champ/index.xml" />
+		<PRODUCT PID="0x4008" URL="https://boseupdaterfile.top/bosefirmware/ced/master/moonraker/index.xml" />
+		<PRODUCT PID="0x4009" URL="https://boseupdaterfile.top/bosefirmware/ced/master/kcup/index.xml" />
+		<PRODUCT PID="0x4010" URL="https://boseupdaterfile.top/bosefirmware/ced/master/folgers/index.xml" />
+		<PRODUCT PID="0x4011" URL="https://boseupdaterfile.top/bosefirmware/ced/master/harvey/index.xml" />
+		<PRODUCT PID="0x4012" URL="https://boseupdaterfile.top/bosefirmware/ced/master/ice/index.xml" />
+		<PRODUCT PID="0x4013" URL="https://boseupdaterfile.top/bosefirmware/ced/master/flurry/index.xml" />
+		<PRODUCT PID="0x4014" URL="https://boseupdaterfile.top/bosefirmware/ced/master/powder/index.xml" />
+		<PRODUCT PID="0x4015" URL="https://boseupdaterfile.top/bosefirmware/stetson/master/trapper/index.xml" />
+		<PRODUCT PID="0x4017" URL="https://boseupdaterfile.top/bosefirmware/ced/master/kleos/index.xml" />
+		<PRODUCT PID="0x4018" URL="https://boseupdaterfile.top/bosefirmware/ced/master/levi/index.xml" />
+		<PRODUCT PID="0x4020" URL="https://boseupdaterfile.top/bosefirmware/ced/master/baywolf/index.xml" />
+		<PRODUCT PID="0x4022" URL="https://boseupdaterfile.top/bosefirmware/ced/master/minnow/index.xml" />
+		<PRODUCT PID="0x4023" URL="https://boseupdaterfile.top/bosefirmware/ced/master/pascal/index.xml" />
+		<PRODUCT PID="0x4024" URL="https://boseupdaterfile.top/bosefirmware/ced/master/goodyear/index.xml" DEVICE_CLASS="BMAP" />
+		<PRODUCT PID="0x402C" URL="https://boseupdaterfile.top/bosefirmware/ced/master/celine/index.xml" />
+		<PRODUCT PID="0x404C" URL="https://boseupdaterfile.top/bosefirmware/ced/master/celine2/index.xml" />
+		<PRODUCT PID="0xA211" URL="https://boseupdaterfile.top/bosefirmware/pro/master/chibi/index.xml" DEVICE_CLASS="TYMPHANY" />
+		<PRODUCT PID="0x402F" URL="https://boseupdaterfile.top/bosefirmware/ced/master/lando/index.xml" DEVICE_CLASS="BMAP"/>
+</ROOT>
